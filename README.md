@@ -1,4 +1,4 @@
-<p style="color: green;">Hi there, I'm Rhea Calugay 👋</p>
+# <p style="color: green;">Hi there, I'm Rhea Calugay 👋</p>
 
 I'm a developer from the Philippines, passionate about coding and collaboration. Feel free to explore my repositories and reach out if you have questions or collaboration ideas.
 
