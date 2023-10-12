@@ -7,3 +7,4 @@ I'm a developer from  Philippines, passionate about coding and collaboration. Fe
 📧 Email: rheadubricocalugay@gmail.com
 
 Connect with me, and let's build great things together! 😊
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=calugayrhea&show_icons=true&theme=radical)
