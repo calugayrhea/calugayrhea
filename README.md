@@ -1,5 +1,5 @@
 # Hello, I'm Rhea Calugay 👋
-
+![Profile Views](https://komarev.com/ghpvc/?username=calugayrhea&label=PROFILE+VIEWS)
 I'm a developer from  Philippines, passionate about coding and collaboration. Feel free to explore my repositories and reach out if you have questions or collaboration ideas.
 
 ## Contact Me
